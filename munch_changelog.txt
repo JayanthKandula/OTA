@@ -1,1 +1,3 @@
-- Safetynet fix
+- Bring back Aperture
+- Added wellbeing
+- Other source changes
